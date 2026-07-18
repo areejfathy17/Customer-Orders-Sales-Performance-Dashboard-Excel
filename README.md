@@ -1,28 +1,30 @@
-# Customer Orders & Sales Performance Dashboard
+# 📊 Customer Orders & Sales Performance Dashboard
 
-## Overview
-This project is an **Excel-based dashboard** developed as a freelance project for a sales representative.  
-It allows the client to **track customer orders and sales performance** efficiently with automated KPIs and dynamic reports.
+![Dashboard Preview](https://github.com/areejfathy17/Customer-Orders-Sales-Performance-Dashboard/blob/main/Dashboard.png)
 
-## Key Features
-- Designed a **custom database structure** with dropdown lists and validation rules for accurate data entry.  
-- Automated dashboard that **updates in real-time** when new data is entered.  
-- KPIs to monitor:
-  - Daily and monthly sales targets.  
-  - Number of customer requests and response rates.  
-  - Sales performance by product and by source.  
-  - Deal stages (accepted, rejected, in progress, etc.).  
-  - Call quality (average call duration).  
-- Interactive visuals with Pivot Tables, Charts, and Slicers.  
+Excel-based sales tracking solution developed for a sales representative to monitor customer requests, sales activities, targets, and deal progress through a centralized interactive dashboard.
 
-## Tools & Technologies
-- Microsoft Excel  
-- Power Query  
-- Pivot Tables & Charts  
-- Data Validation  
+---
 
-## Usage
-- Enter customer requests into the database sheet.  
-- The dashboard updates automatically with the latest data.  
-- Review KPIs and charts to analyze performance daily and monthly.  
+## ✨ Key Highlights
 
+* Built validated data-entry workflows using dropdown lists and business rules.
+* Automated KPI tracking for sales targets, customer requests, response rates, and deal stages.
+* Developed interactive dashboards with dynamic filtering and real-time performance monitoring.
+* Enabled faster reporting and visibility into sales pipeline and operational activities.
+
+---
+
+## 📈 Dashboard Features
+
+* Sales Target Achievement
+* Customer Requests Tracking
+* Deal Pipeline Analysis
+* Product & Lead Source Performance
+* Call Activity Monitoring
+
+---
+
+## 🛠️ Tools
+
+Excel • Power Query • Pivot Tables • Pivot Charts • Data Validation • Slicers
