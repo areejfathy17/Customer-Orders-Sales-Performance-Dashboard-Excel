@@ -22,9 +22,3 @@ Excel-based sales tracking solution developed for a sales representative to moni
 * Deal Pipeline Analysis
 * Product & Lead Source Performance
 * Call Activity Monitoring
-
----
-
-## 🛠️ Tools
-
-Excel • Power Query • Pivot Tables • Pivot Charts • Data Validation • Slicers
